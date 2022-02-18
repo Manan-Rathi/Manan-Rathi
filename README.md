@@ -26,15 +26,12 @@
 
 
 <h1 align="center">⚡ GitHub Statistics ⚡</h1>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/manan-rathi/github-readme-streak-stats" title="Go to Source">
-      <img align="center" style="padding-right: 50px" width=416 src="https://github-readme-streak-stats.herokuapp.com/?user=manan-rathi&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>&nbsp;  &nbsp;
-   <br></br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=416 src="https://github-readme-stats.vercel.app/api?username=manan-rathi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manan-Rathi&show_icons=true&hide_border=false&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manan-Rathi&hide_border=false&theme=radical" />
+</p>
+
+<h1 align="center">Languages</h1>
+<p align="center">
+ <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Rathi&layout=compact&hide_border=false&theme=radical" />
+</p>
