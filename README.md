@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manan Rathi! 🙋‍♂️</h1>
+<h1 align="center">Hi, I'm Manan! 🙋‍♂️</h1>
 <h3 align="center">An Open Source Enthusiast & Full-Stack Web Developer</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-rathimanan27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathimanan27@gmail.com)](mailto:tigeryashraj@gmail.com)
